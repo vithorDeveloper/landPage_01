@@ -12,6 +12,6 @@
 * CSS
 ## Abrir Projeto
 
-<a href="https://land-page-01.vercel.app" target="_blank">LandPage_Rockeseat</a>[]()
+[LandPage_Rockeseat](https://land-page-01.vercel.app)
 
 <p align="center">Done with 💜 by vithorDeveloper👋</p>
